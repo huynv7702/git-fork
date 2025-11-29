@@ -1,2 +1,5 @@
 const fork = 'Learn git-fork for newbie'
 const hello = 'hello changes huy huy'
+const name = 'Nguyen Van Huy'
+const hi = 'Hi minh la Huy dep trai'
+const age = '18'
